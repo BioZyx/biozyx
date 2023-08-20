@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there :wave:
 
-<!--
-**BioZyx/biozyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sorry but I'm a frenchie newbie :fr:
+- :computer: I’m currently working on reaching the next level
+- :open_book: I’m currently learning to breathe
+- :bearded_person: Pronouns: He/Him
+- :thinking: Fun fact: I don't really sniff redstone, you know why? It's just pixels :scream:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you speak french, you can find me there :
+- [Twitch](http://www.twitch.tv/itsbiozyx)
+- [Youtube](https://www.youtube.com/itsbiozyx)
+- [Twitter](https://www.twitter.com/itsbiozyx) (Yup, i'm still calling it Twitter)
